@@ -1,10 +1,10 @@
 {
-    "title": "Jellyfin",
+    "title": "Jellyfin Custom",
     "config": {
-        "flow_title": "Jellyfin Configuration",
+        "flow_title": "Jellyfin Custom Configuration",
         "step": {
             "user": {
-                "title": "Jellyfin Config",
+                "title": "Jellyfin Custom Config",
                 "description": "Configure the integration.",
                 "data": {
                     "url": "[%key:common::config_flow::data::url%]",
@@ -26,10 +26,10 @@
         }
     },
     "options": {
-        "flow_title": "Jellyfin Configuration",
+        "flow_title": "Jellyfin Custom Configuration",
         "step": {
             "user": {
-                "title": "Luci Config",
+                "title": "Jellyfin Custom Config",
                 "description": "Configure the connection details.",
                 "data": {
                     "url": "[%key:common::config_flow::data::url%]",

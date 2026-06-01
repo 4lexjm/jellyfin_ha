@@ -10,7 +10,7 @@ trigger_scan:
       example: "sensor.jellyfin_cloud"
       selector:
         entity:
-          integration: jellyfin
+          integration: jellyfin_custom
           domain: sensor
 
 search:
@@ -25,7 +25,7 @@ search:
       example: "sensor.jellyfin_cloud"
       selector:
         entity:
-          integration: jellyfin
+          integration: jellyfin_custom
           domain: sensor
     id:
       name: Search term
@@ -48,7 +48,7 @@ browse:
       example: "media_player.jellyfin_firefox"
       selector:
         entity:
-          integration: jellyfin
+          integration: jellyfin_custom
           domain: media_player
     id:
       name: Item Id
@@ -71,7 +71,7 @@ delete:
       example: "sensor.jellyfin_cloud"
       selector:
         entity:
-          integration: jellyfin
+          integration: jellyfin_custom
           domain: sensor
     id:
       name: Item Id

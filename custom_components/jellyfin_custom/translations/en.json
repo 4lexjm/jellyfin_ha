@@ -8,7 +8,7 @@
             "cannot_connect": "Unable to connect",
             "unknown": "Unknown Error"
         },
-        "flow_title": "Jellyfin Configuration",
+        "flow_title": "Jellyfin Custom Configuration",
         "step": {
             "user": {
                 "data": {
@@ -20,7 +20,7 @@
                     "generate_yamc": "Generate YAMC card data"
                 },
                 "description": "Configure the connection details.",
-                "title": "Jellyfin"
+                "title": "Jellyfin Custom"
             }
         }
     },
@@ -33,7 +33,7 @@
             "cannot_connect": "Unable to connect",
             "unknown": "Unknown Error"
         },
-        "flow_title": "Jellyfin Configuration",
+        "flow_title": "Jellyfin Custom Configuration",
         "step": {
             "user": {
                 "data": {
@@ -45,9 +45,9 @@
                     "generate_yamc": "Generate YAMC card data"
                 },
                 "description": "Configure the connection details.",
-                "title": "Jellyfin"
+                "title": "Jellyfin Custom"
             }
         }
     },
-    "title": "Jellyfin"
+    "title": "Jellyfin Custom"
 }

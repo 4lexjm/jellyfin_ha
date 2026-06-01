@@ -1,6 +1,6 @@
 """Constants for the jellyfin integration."""
 
-DOMAIN = "jellyfin"
+DOMAIN = "jellyfin_custom"
 SIGNAL_STATE_UPDATED = "{}.updated".format(DOMAIN)
 
 SERVICE_SCAN = "trigger_scan"
