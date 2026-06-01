@@ -1,6 +1,4 @@
 {
     "name": "Jellyfin Custom",
-    "domains": ["sensor", "media_player"],
-    "iot_class": ["Cloud Pushing"],
     "render_readme": true
   }
